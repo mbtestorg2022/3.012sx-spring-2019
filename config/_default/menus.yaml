@@ -1,0 +1,17 @@
+leftnav:
+- identifier: 87e218ac-cd9e-20c9-12f2-f74132078c23
+  name: 'Part 1: Fundamentals of Materials Structure'
+  url: /pages/syllabus
+  weight: 10
+- identifier: external-445dd9f5ebee4341b6b9a68f53474605
+  name: 'Part 1: Fundamentals of Materials Structure'
+  url: https://openlearninglibrary.mit.edu/courses/course-v1:MITx+3.012S.1x+1T2019/about
+  weight: 1000
+- identifier: external-99f261259d5f4a02a2c24230828272bb
+  name: 'Part 2: The Crystalline State'
+  url: https://openlearninglibrary.mit.edu/courses/course-v1:MITx+3.012S.2x+1T2019/about
+  weight: 1010
+- identifier: external-35c61085d75943edac7d99c52563f9ec
+  name: 'Part 3: Liquid Crystals, Defects, and Diffusion'
+  url: https://openlearninglibrary.mit.edu/courses/course-v1:MITx+3.012S.3x+1T2019/about
+  weight: 1020
